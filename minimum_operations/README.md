@@ -1,0 +1,1 @@
+Este Ejercicio se trata de encontrar las Operacion minima de un numero dado.
