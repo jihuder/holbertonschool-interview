@@ -1,6 +1,6 @@
 ## Minimum Operations 
 
-![Minimum Operations](images/Minimum%20Operations.png)
+![Minimum Operations](/images/Minimum%20Operations.png)
 
 
 El problema se trata que tengo que igualar el carácter  "H" según el número de veces que me llega como parámetro, es decir, si por el parámetro me llega  "n= 15" tengo que hacer "15 H", ya que "H == 15", por lo cual, me toca hacer un marco calcula de H copiando y pegando para hacer el cálculo de cuantas veces la puedo copiar  si excederme haciendo el mínimo de copias.
